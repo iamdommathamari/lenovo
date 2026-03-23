@@ -1,0 +1,10 @@
+# Core HTTP & Data Handling
+requests==2.31.0
+pandas==2.2.2
+
+# Excel Handling
+openpyxl==3.1.2
+
+# HTML Parsing
+beautifulsoup4==4.12.3
+lxml==5.2.1
